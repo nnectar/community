@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Enhanced Dai Savings Rate (DSR) Activation, Spark Protocol Debt Ceiling Increase, Vault Changes, AVC Compensation for Q2 2023, JAT1 DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution - August 2, 2023
 summary: Enhanced Dai Savings Rate (DSR) Activation, Spark Protocol Debt Ceiling Increase, RWA Vault Updates, AVC Compensation for Q2 2023, JAT1 DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution
 date: 2023-08-02T00:00:00.000Z
-address: "$spell_address"
+address: "0x73603dB34814b22379CeD3d2Cbb450B3968Fd892"
 
 ---
 # [Executive Proposal] Enhanced Dai Savings Rate (DSR) Activation, Spark Protocol Debt Ceiling Increase, RWA Vault Updates, AVC Compensation for Q2 2023, JAT1 DAO Resolution for Monetalis Clydesdale, Launch Project Funding, Spark Proxy Spell Execution - August 2, 2023
